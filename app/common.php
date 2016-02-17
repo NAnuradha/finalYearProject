@@ -264,6 +264,8 @@
               <img src="dist/img/sl_logo.png" alt="" style="width: 63px;" class="center-block"/>
           </div>
           
+         
+          
           <!-- sidebar menu: : style can be found in sidebar.less -->
           <ul class="sidebar-menu">
             <li class="header">MAIN NAVIGATION</li>
